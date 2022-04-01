@@ -450,7 +450,7 @@ def main(args=None):
     # args.dataset_type = 'coco'
     # args.coco_path = '../../datasets/coco'
     args.dataset_type = 'pascal'
-    args.pascal_path = '../../apascal/VOC2008'
+    args.pascal_path = '../apascal/VOC2008'
 
     # create object that stores backbone information
     print(args.backbone)
