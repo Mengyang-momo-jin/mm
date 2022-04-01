@@ -10,4 +10,4 @@ Run bin/train_attributes.py to start training. The model will be saved in bin/sn
 
 Run bin/evaluate_attributes.py to evaluate the model on test data.
 
-This repository is an extension of [this](https://github.com/fizyr/keras-retinanet) repository. Check this for detailed instructions.
+This repository is an extension of [this](https://github.com/fizyr/keras-retinanet) repository, check for detailed instructions.
