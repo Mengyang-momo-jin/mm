@@ -116,7 +116,7 @@ def main(args=None):
     # args.coco_path = '../../datasets/coco'
     # args.coco_path = 'E:\Research\VQA\VQA Dataset\coco'
     args.dataset_type = 'pascal'
-    args.pascal_path = '../../apascal/VOC2008'
+    args.pascal_path = '../apascal/VOC2008'
     args.model = os.path.join('snapshots', 'resnet50_pascal_05.h5')
 
     # make sure keras is the minimum required version
